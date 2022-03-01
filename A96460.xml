@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact relation of the great victories obtained by the Earl of Manchester, and the Lord Fairfax; against the Earl of Newcastles army in the north. As it appears by a letter of Sir William Widdrington, sent to the Earl of Newcastle; which letter was intercepted by the Parliaments Army, and sent to the House of Commons. Together with two letters concerning the said victories: the one from the Right Honourable, the Lo: Fairfax; the other from Sir John Meldrum, to the Honourable, Sir William Lenthall Esquire, speaker of the House of Commons. Ordered by the Commons in Parliament, that this relation and letters forthwith printed and published: H: Elsynge, Cler. Parl.D.Com.</title>
+            <author>Widdrington, William Widdrington, Baron, 1610-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96460</idno>
+            <idno type="STC">Wing W2089</idno>
+            <idno type="STC">Thomason E71_22</idno>
+            <idno type="STC">ESTC R15558</idno>
+            <idno type="EEBO-CITATION">99859884</idno>
+            <idno type="PROQUEST">99859884</idno>
+            <idno type="VID">111986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111986)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E71[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact relation of the great victories obtained by the Earl of Manchester, and the Lord Fairfax; against the Earl of Newcastles army in the north. As it appears by a letter of Sir William Widdrington, sent to the Earl of Newcastle; which letter was intercepted by the Parliaments Army, and sent to the House of Commons. Together with two letters concerning the said victories: the one from the Right Honourable, the Lo: Fairfax; the other from Sir John Meldrum, to the Honourable, Sir William Lenthall Esquire, speaker of the House of Commons. Ordered by the Commons in Parliament, that this relation and letters forthwith printed and published: H: Elsynge, Cler. Parl.D.Com.</title>
+                  <author>Widdrington, William Widdrington, Baron, 1610-1651.</author>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+                  <author>Meldrum, John, Sir, d. 1645.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>October 19. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111986:1" rendition="simple:additions"/>
+            <p>A True and Exact RELATION OF <hi>The great Victories obtained. by the</hi> Earl of <hi>Mancheſter,</hi> and the Lord <hi>Fairfax;</hi> AGAINST The Earl of <hi>Newcaſtles</hi> Army in the North.</p>
+            <p>As it appears by a Letter of Sir <hi>William Widdring<g ref="char:EOLhyphen"/>ton,</hi> ſent to the Earl of <hi>Newcaſtle;</hi> which Letter was Intercepted by the Parliaments Ar<g ref="char:EOLhyphen"/>my, and ſent to the Houſe of Commons.</p>
+            <p>Together with two Letters concerning the ſaid VICTORIES: The one from the Right Honorable, the <hi>Lo: Fairfax;</hi> The other from Sir <hi>John Meldrum,</hi> to the Honora<g ref="char:EOLhyphen"/>ble, Sir <hi>William Lenthall</hi> Eſquire, Speaker of the Houſe of Commons.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this Re<g ref="char:EOLhyphen"/>lation and Letters forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edward Husbands,</hi> October 19. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:111986:2"/>
+            <head>To his Excellency, <hi>The Lord Marqueſſe of Newcaſtle,</hi> moſt humbly preſent theſe:</head>
+            <opener>
+               <salute>May it pleaſe your Excellency;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Thought fit to give your Lordſhip an accompt of our buſineſs yeſterday, how bad ſoever, as ſpeedily as I could; We had but three diviſions charged, two diviſions being of Sir <hi>William Sa<g ref="char:EOLhyphen"/>vills,</hi> the third of my Lords, <hi>Ethings,</hi> and ſir <hi>John Henderſon</hi> joyned, being Eight Troops; the third diviſion being of the left wing, put the Enemy to diſorder, but <hi>Savills</hi> Regiment totally running diſordered, and ſo put to rout our whole Army, we have in a manner totally loſt our Foot and Dragoons that were there, being neer 800 horſe, ex<g ref="char:EOLhyphen"/>tremely diſperced, but no great number cut off; ſir <hi>John Henderſon</hi> intends to aſſigne them quarters betwixt Gainsborough and Newark, ſome on Lincolnſhire ſide, and ſome on Nottingham ſide, for the better calling of the Troops together; but of the ſtrength of which, we cannot yet give your Lordſhip any certain accompt; but you ſhall not fail to hear daily of our ſtrength; All Officers having order to return a daily accompt of their numbers; I have written to <hi>Haſtings</hi> for his and the Belvoier Troops, which he hath now called to him, but with little expectation of any aſſi<g ref="char:EOLhyphen"/>ſtance from him; ſir <hi>John Hinderſon</hi> hath written to ſir <hi>Edward Nicolas,</hi> and Generall <hi>Reven,</hi> and I have written to my Lord <hi>Jer<g ref="char:EOLhyphen"/>mine,</hi> to let them know, that without the King be pleaſed to ſend a conſiderable number of Horſe in Huntingtonſhire, to divert <pb n="4" facs="tcp:111986:3"/>their ſtaying in thoſe parts, or otherwiſe to come in the Reare of them, in caſe they continue in theſe parts, that your Lordſhip will be very much ſtraitned for the preſervation of the county and Yorkſhire, if your Lordſhip ſhall quit the ſiege at Hull upon this unfortunate action; I preſume your Lordſhip will think if fit to fortifie the Church, and ſome part of Beverley, that ſo a conſide<g ref="char:EOLhyphen"/>rable Garriſon may be left as neer them as may be; Their Horſe are very good, and extraordinarily armed, and may be reported to be betwixt fifty and ſixty Troops, being very ſtrong; I do not know the number of their Foot, but we beleeve them to be about Fifteen hundred, or betwixt that and Two thouſand; Their Foot was not come up to their Horſe, and the ground they had choſen would not admit of above three diviſions of Horſe to charge at once; they are for the preſent at liberty to diſpoſe of their Forces what way they pleaſe, either to Hull or Derby; I can but ſubmit it to your Lordſhips conſideration, and remain</p>
+            <closer>
+               <dateline>
+                  <hi>Pon Cotne,</hi>
+                  <date>
+                     <hi>Octob.</hi> 12.
+1643.</date>
+               </dateline>
+               <signed>
+                  <hi>Your Lordſhips moſt humble ſervant,</hi> W: WITHRINTON.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>SInce I writ this, there are divers Foot and Dragoons come in, ſo that I hope the loſſe is not ſo great as I expected, and I hope not many of the Horſe loſt, though not many of them come together as yet; if you be ſtraitned for Arms, ſir <hi>Iohn Fitzherbert</hi> hath ſix or ſeven hundred Muſquets at Bozover caſtle.</p>
+            <p>Sir <hi>Ingram Hopton</hi> certainly is ſlain, and Captain
+<hi>Abraham Marcham,</hi> and ſir <hi>George Bowes,</hi> and Lieutenant
+<hi>Godfrey,</hi> Lieute<g ref="char:EOLhyphen"/>nant Colonell <hi>Ares,</hi> Colonell <hi>Saint George,</hi> Captain <hi>Vernat,</hi> and divers other Captains and Officers either taken or ſlain.</p>
+            <p>He that commanded that diviſion that routed <hi>Savills</hi> firſt divi<g ref="char:EOLhyphen"/>ſion (being conceived to be <hi>Cromwell</hi>) is certainly ſlain, and one or two Officers more, Maſter <hi>Portington</hi> is ſhot through the Arm, and Maſter <hi>Wheeler</hi> through the thigh.</p>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:111986:3" rendition="simple:additions"/>
+            <head>For my Honorable friend <hi>William Lenthall</hi>
+               <abbr>Eſq</abbr> Speaker of the Commons Houſe of Parliament.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough it were long ere we received any aſſiſtance at
+<hi>Hull,</hi> yet when any came, I hope it ſhall appear we neglected little time in making uſe of it, an Accompt whereof I now deſire by your meanes to preſent unto the Houſe. <hi>October</hi> 5, we had a a ſupply, from the Earl of <hi>Mancheſter</hi> 400. and from Sir <hi>William Conſtable</hi> (though himſelfe be not yet here) about 250 men; the ninth of October the Enemy aſſaulted one of our workes, but was repulſt with the loſſe of eleven or twelve men, and ſix or ſeven Of<g ref="char:EOLhyphen"/>ficers, ſome taken by my men, ſome carried off by their own men, as ſome of theirs confeſs, and ſome few Priſoners taken. Yeſterday being the eleventh of this inſtant, I drew my Auxilliary Forces and my other men with ſome ſeamen into two Bodies, com<g ref="char:EOLhyphen"/>manded in cheife by ſir <hi>Iohn Meldrum,</hi> and made a ſallie upon the Enemy in his Trenches on the weſt ſide of the Towne, two ſeve<g ref="char:EOLhyphen"/>rall wayes at once, having placed three Troops of Horſe, to keep off the Enemies Horſe (which were quickly drawn into a Body) from annoying my Foot: The ſervice begun about Nine in the morning, it was not long ere my men had beaten them out of one of their workes; and aſsaulted them in another; nor long after that, ere my men falling into ſome diſorder, were forced to a re<g ref="char:EOLhyphen"/>treat, and the Enemy got poſseſſion of their workes againe, which fil'd our men with much diſcouragement, and all of us with feare of the ſucceſs of the day. But it pleaſed God, by the gal<g ref="char:EOLhyphen"/>lant courage and activity of ſir <hi>Iohn Meldrum,</hi> and the ſpirit, and vallors of my Commanders and Officers, my men were quickly rallied, and in a ſhort time recovered all their workes on that ſide, and put the enemy to flight; there we purchaſed one of their forraigne brazen ſtaves, one of their great Demy Cannons, which now through Gods mercy hath proved a ſtaffe of Reed to them, that peece we ſpeedily made a ſhift to draw away out of danger of their recovery, till we had more leiſure, towards night, what time we fetcht her within the walls: We tooke be<g ref="char:EOLhyphen"/>ſides, one demy culvering, one ſacre, three drakes, and one caſe of ſmall ſhortpeeces all braſse, one carriage with great buller, and about an hundered Armes: After ſome two houres intermiſſion <pb n="6" facs="tcp:111986:4"/>the enemy had drawne together a conſiderable Body of freſh re<g ref="char:EOLhyphen"/>ſerves, both horſe and foot, and with thoſe aſsaulted our weary men, with great fury, but it pleaſed God, infinitely to manifeſt ſtrength in weakneſse, to ſupply us with new ſpirits, and after a skirmiſh of ſome two houres hot ſervice, to drive the enemy cleer of the field, the laſt night they gave ſome of my outguards a ſtrong alarme; but what we then imagined is come to paſſe, we finde this morning they then drew off the reſt of their Ordnance, from their other workes, and have in ſome meaſure raiſed their ſeige, at leaſt from ſo cloſe a ſeige, though I heare and beleive they intend to keepe ſome workes at a further diſtance, onely ſome few are left as we conceive to face us a while in one weeke<g ref="char:punc">▪</g> while they get their carriages cleer, and in all this ſervice, we do not finde that we loſt above ſixteene men: And thus through the goodneſſe of God this ſnare is thus farr broken, and we are thus farr eſcaped, and we may truly ſay, it is the Lords doing, and mar<g ref="char:EOLhyphen"/>valous in our eyes; and to him we deſire the glory ſhould be a<g ref="char:EOLhyphen"/>ſcribed: We are confident the enemy will yet keepe a Garriſon at Beverly this winter, and ſo though we have obtained ſome el<g ref="char:EOLhyphen"/>bow roome for our ſelves, and our Cattell; yet we expect affronts and what miſchiefs they can do us at that diſtance, howſoever now that this Port for the benefit of the County and Kingdome is thus farr ſecured, to the end we may not here ſleepe unprofi<g ref="char:EOLhyphen"/>table, but take all opportunities to advance the publique Cauſe, my deſire is you would earneſtly move the Houſe, they would now if ever, contrive ſome way to ſupply us with moneys where<g ref="char:EOLhyphen"/>of we are exceeding ſhort, for the payment of my willing Offi<g ref="char:EOLhyphen"/>cers, and Souldiers, who would gladly, now they ſeeme to fe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le the mercy comming be putting on to help it forwards, then which nothing is more deſired, nor ſhalbe more earneſtly endeavored by</p>
+            <closer>
+               <signed>Your affectionate friend and ſervant. <hi>FER. FAIRFAX.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Kingston ſuper Hull.</hi>
+                  <date>
+                     <hi>Oct.</hi>
+12. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For my Honorable friend, <hi>William Lenthall</hi>
+               <abbr>Eſq</abbr> Speaker of the Commons Houſe of Parliament.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Shall not weary you much with the Relation of ſome happie ſucceſses, God hath bleſseed us withall ſince my arrivall at Hull,
+<pb n="7" facs="tcp:111986:4"/>knowing that many pens will be ſet a work, wherby neither the truth, in the narration, nor the favour and mercy of God, can be revealed Upon Munday being the ninth of this inſtant, the Regi<g ref="char:EOLhyphen"/>naliſts about break of day, did with a great deal of courage, being commanded by <hi>Denton Stricland,</hi> and one <hi>Little</hi> a Countreyman of mine, who commanded in chief, fell upon one of our out-works, called the Raged Jetty, a place of great importance for the ſafe riding of our ſhipping before the town: but by the reſolutio<g ref="char:cmbAbbrStroke">̄</g> of two Engliſh Commanders, and a countrey man of mine, coſen germain to ſir <hi>William Cunningham,</hi> and the courage of the Cunners and ſouldiers, they were (upon view of a hundred muſqueteres which followed me from the mount) beaten out of the work, driven to a moſt ſhamefull retreit, leaving the bodies of their Commanders dead upon the place: many of their ſouldiers killed and wounded, Whereupon upon the 9. of October my Lord Generall did call a counſell of war, where it was reſolved for us to iſsue forth, and to beat them forth of their next works approaching to ours: the order was to fall out in two diſtinct bodies of 500. Muſqueteres apiece commanded (under my charge) by two Colonels <hi>Lam<g ref="char:EOLhyphen"/>bert</hi> and <hi>Rainſborow,</hi> who with Major <hi>Forbeſſe</hi> and Major <hi>Wren,</hi> carryed themſelves very bravely, marching along the enemies line of approach, on every ſide, the enemy abandoning one work after another, untill we made our ſelves Maſters of their Ordi<g ref="char:EOLhyphen"/>nance. But as the ſun (in the greateſt brightneſse) is ſubject to Eclips, ſo it fell out that the forwardneſse, and violence of our ſouldiers, was abated by a hundred pikes of the enemy, who charg<g ref="char:EOLhyphen"/>ing the Van of our ſoot, ſcattered and in diſorder did drive us backward again, regained their Ordnance, and enforced us all to a ſhamefull retreat, the Commanders and my ſelf not being able to ſtop any one man (if the kingdome had been at the ſtake) In this retreat Colonell <hi>Rainſeborough</hi> is either taken priſoner, or killed dead and fallen into ſome ditch, but cannot be found, his mans dead body is found: upon my Lord Generalls order to ſhut the gates, and the ſence of their own carriage, a body of foot was again drawn up which falling again, with as much animoſitie and heate as formerly they had retyred; did drive them again out of their works, recovered all the Ordnance loſt, and gained a Half cannon and a Demy culverin of braſſe, which we had not poſseſsed in the firſt charge; upon this change of the Scene of af<g ref="char:EOLhyphen"/>faires, <pb n="8" facs="tcp:111986:5"/>the Lord Marques, Lieutenant Generall King brought down the whole army from the head quarter, wherewith the 2 laſt pieces turned upon the body of their army, they were all forced to a wretched retreat, and to ſtand at a diſtance, untill we ſlighted their whole line of approach, we brought off nine pieces of Ordinance, one demy cannon called one of the Queens Gods, a demy Culver<g ref="char:EOLhyphen"/>ing of braſse, two Sacars, and four or five drakes ſafely within our quarters. After they perceived that they had loſt the two braſſe pieces (which they did imagine we were not able to draw off) their whole body of foot with fourty Colours, drawes themſelues within Piſtoll ſhot to the Raged Jetty (where there great was) being reſolved to fall upon it that night, but by the Order, the Or<g ref="char:EOLhyphen"/>der they perceived was taken to keep two hundred Muſqueteres without the Ietty, which could not have been done, if they had had Ordinance, and putting ſo many reſolved men within the Ietty, they took themſelves to their heels about midnight and re<g ref="char:EOLhyphen"/>tired to their Head quarter, my Lord Newcaſtle and Lievtenant G<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerall King were beholders of the ſecond part of this act, and as is report<g ref="char:EOLhyphen"/>ed, King is wounded in two ſeverall places, our Ordinance hath done them a great deal of miſchief: and if we had had a freſh body of foot, they had been put to a great ſtraight. In their retiring their other God ſtuck in the dirt, untill all the Countrey people were called to draw her off. Amongſt the captaine (who deſerved all well) Micklewhaite, Perſons, Bethel, and Hardſtaffe: For the Horſe, Captain Clayton, the bearer hereof, having a generall love of all the Souldiers, did very good ſervice, Capt. Salmond, Capt. Sibbalds, and Capt. Crooker for the foot, did carry themſelves very valiantly. I had a blow on the ſide by a ſlug of cutted Iron ſhot from the great Piece, but thanks be to God, am not the worſe, I beleeve her Sacred Majeſtie if ſhe had known where the ſhot ſhould have lighted, would have checked the Gunne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for not charging f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll home: Whilſt we were in ſervice in Yorkſhire we heard the noiſe of the en<g ref="char:EOLhyphen"/>counter in Lincolnſhire, whereunto God hath pleaſed to give a happy iſſue, whereby you may perceive that God is upon the ſtage, and that Dagon <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down. Since the beginning of my letter we underſtand that Colonell Raineſe<g ref="char:EOLhyphen"/>borough is ſafe: I deſire that you will continue your accuſtomed favour to<g ref="char:EOLhyphen"/>wards</p>
+            <closer>
+               <signed>your affectionate friend and ſervant: IO. MEIDRUM.</signed> 
+               <dateline>From Hull
+<date>Oct. 14. 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
